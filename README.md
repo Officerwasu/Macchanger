@@ -12,7 +12,7 @@ A command-line tool to randomize or set MAC addresses on Linux network interface
 * Linux
 * Python 3
 * `sudo` privileges
-* ifconfig
+* ifconfig(net-tools)
 
 ## Installation
 
